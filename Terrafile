@@ -1,0 +1,2 @@
+stack_options(purge: true)
+mod "rds", source: "terraform-aws-modules/rds/aws", stacks: :all

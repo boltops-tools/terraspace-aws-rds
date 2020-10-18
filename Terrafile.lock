@@ -1,0 +1,7 @@
+---
+rds:
+  source: terraform-aws-modules/rds/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-rds
+  sha: '09a4bff1147af7772426e6a07fe8f6d5c25ab64d'
